@@ -359,3 +359,62 @@ An end-to-end machine learning application for heart disease risk prediction wit
 </div>
 
 <br/>
+<br/>
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### Technologies I Build With
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,python,ts" />
+
+<br/><br/>
+
+### 🌐 Full-Stack & Backend
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,flask,django,fastapi" />
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+<br/><br/>
+
+### ⚙️ Engineering & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,docker" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧠 Core Computer Science
+
+`Data Structures & Algorithms` · `OOPs` · `DBMS` · `Operating Systems`  
+`Computer Networks` · `Concurrency` · `Synchronization` · `Process Management`  
+`Thread Management` · `CPU Scheduling` · `IPC` · `Deadlocks`
+
+<br/>
+
+### 🌐 Distributed Systems
+
+`Distributed Job Processing` · `Job Scheduling` · `Worker Architecture`  
+`Job Queues` · `Concurrency Control` · `Fault Tolerance`  
+`Retry Mechanisms` · `Asynchronous Processing`
+
+</div>
+
+<br/>
