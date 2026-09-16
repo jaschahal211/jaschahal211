@@ -422,22 +422,34 @@ An end-to-end machine learning application for heart disease risk prediction wit
 
 <div align="center">
 
+<br/>
 
+<div align="center">
 
-## 📊 GitHub Activity
+## 🤝 Let's Connect
 
-### Code • Contributions • Consistency
+### Open to opportunities, collaborations & interesting ideas 🚀
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaschahal211&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" width="48%"/>
+<a href="https://www.linkedin.com/in/jaskiran-chahal">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaschahal211&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="40%"/>
+<a href="https://github.com/jaschahal211">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:jaskiranchahal211@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaschahal211&hide_border=true&theme=transparent" width="60%"/>
+`Full-Stack Development` • `Open Source` • `DSA` • `SQL`
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12,14,20,24"/>
 
 </div>
-
-<br/>
