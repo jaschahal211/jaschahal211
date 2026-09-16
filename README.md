@@ -418,3 +418,28 @@ An end-to-end machine learning application for heart disease risk prediction wit
 </div>
 
 <br/>
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Activity
+
+### Code • Contributions • Consistency
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaschahal211&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaschahal211&layout=compact&hide_border=true&theme=transparent" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaschahal211&hide_border=true&theme=transparent" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaschahal211&hide_border=true&theme=github-compact" width="95%"/>
+
+</div>
+
+<br/>
