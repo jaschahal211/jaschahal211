@@ -221,3 +221,127 @@ Represented at the **state level in badminton**, balancing competitive sport wit
 </div>
 
 <br/>
+
+<br/>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+### Building • Experimenting • Shipping
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚙️ Distributed Job Scheduler
+
+**Node.js · Express.js · PostgreSQL · React · Tailwind CSS**
+
+A fault-tolerant distributed job processing platform built for asynchronous execution, scheduled workloads and concurrent workers.
+
+**Highlights**
+
+- ⚡ Atomic concurrency-safe job claiming
+- 🔄 Retry & fault-tolerance mechanisms
+- 👷 Worker coordination & monitoring
+- 🗄️ Persistent PostgreSQL job state
+- 🔐 Duplicate-execution prevention
+- ⏱️ Scheduled & asynchronous workloads
+
+<a href="https://github.com/jaschahal211">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📝 Blog Application
+
+**MongoDB · Express.js · React · Node.js**
+
+A full-stack content management platform with authentication, authorization and RESTful CRUD workflows.
+
+**Highlights**
+
+- 🔐 Authentication & authorization
+- 🔌 RESTful APIs
+- ✍️ Complete CRUD operations
+- ⚛️ React frontend
+- 🗄️ MongoDB persistence
+- 🔗 API-driven architecture
+
+<a href="https://github.com/jaschahal211">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 Trader Sentiment Analysis
+
+**Python · Pandas · Scikit-learn · Matplotlib**
+
+A data analytics pipeline studying Hyperliquid trader performance against the Bitcoin Fear & Greed Index.
+
+**Highlights**
+
+- 📈 Trader performance analysis
+- 🧹 Data preprocessing & validation
+- 🔎 Trader segmentation
+- 📊 Exploratory data analysis
+- 📉 Data visualization
+- 🧠 Market sentiment analysis
+
+<a href="https://github.com/jaschahal211">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ❤️ Heart Disease Prediction
+
+**Python · Machine Learning · Tkinter**
+
+An end-to-end machine learning application for heart disease risk prediction with an interactive desktop interface.
+
+**Highlights**
+
+- 🧹 Data preprocessing
+- ⚙️ Feature engineering
+- 🤖 Model training & evaluation
+- 🖥️ Tkinter desktop interface
+- 🔮 Real-time prediction
+- 🧪 Workflow validation
+
+<a href="https://github.com/jaschahal211">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🧩 Projects built with purpose, not just for the portfolio.
+
+</div>
+
+<br/>
