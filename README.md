@@ -226,6 +226,12 @@ Represented at the **state level in badminton**, balancing competitive sport wit
 
 <div align="center">
 
+
+
+<br/>
+
+<div align="center">
+
 ## 🚀 Featured Projects
 
 ### Building • Experimenting • Shipping
@@ -243,7 +249,7 @@ Represented at the **state level in badminton**, balancing competitive sport wit
 
 **Node.js · Express.js · PostgreSQL · React · Tailwind CSS**
 
-A fault-tolerant distributed job processing platform built for asynchronous execution, scheduled workloads and concurrent workers.
+A fault-tolerant distributed job processing platform built for asynchronous execution, scheduled workloads, and concurrent workers.
 
 **Highlights**
 
@@ -254,7 +260,7 @@ A fault-tolerant distributed job processing platform built for asynchronous exec
 - 🔐 Duplicate-execution prevention
 - ⏱️ Scheduled & asynchronous workloads
 
-<a href="https://github.com/jaschahal211">
+<a href="https://github.com/jaschahal211/distributed-job-scheduler">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -266,7 +272,7 @@ A fault-tolerant distributed job processing platform built for asynchronous exec
 
 **MongoDB · Express.js · React · Node.js**
 
-A full-stack content management platform with authentication, authorization and RESTful CRUD workflows.
+A full-stack content management platform with authentication, authorization, and RESTful CRUD workflows.
 
 **Highlights**
 
@@ -277,7 +283,7 @@ A full-stack content management platform with authentication, authorization and 
 - 🗄️ MongoDB persistence
 - 🔗 API-driven architecture
 
-<a href="https://github.com/jaschahal211">
+<a href="https://github.com/jaschahal211/BlogApp">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -304,7 +310,7 @@ A data analytics pipeline studying Hyperliquid trader performance against the Bi
 - 📉 Data visualization
 - 🧠 Market sentiment analysis
 
-<a href="https://github.com/jaschahal211">
+<a href="https://github.com/jaschahal211/trader-sentiment-analysis">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -327,7 +333,7 @@ An end-to-end machine learning application for heart disease risk prediction wit
 - 🔮 Real-time prediction
 - 🧪 Workflow validation
 
-<a href="https://github.com/jaschahal211">
+<a href="https://github.com/jaschahal211/Heart_Disease_Prediction">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -339,6 +345,14 @@ An end-to-end machine learning application for heart disease risk prediction wit
 <br/>
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/4%20Projects-Active-2ea44f?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MERN-Full%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-Distributed%20Systems-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
 
 ### 🧩 Projects built with purpose, not just for the portfolio.
 
