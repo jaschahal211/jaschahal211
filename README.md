@@ -29,3 +29,30 @@
 </div>
 
 <!-- END HERO -->
+
+<br/>
+
+## 👩‍💻 About Me
+
+I'm **Jaskiran Kaur Chahal**, a final-year **B.Tech Information Technology student at SGGSIE&T**, focused on building reliable, scalable and user-centric software.
+
+- 💻 Building **full-stack applications** with the **MERN stack**, REST APIs and SQL/NoSQL databases.
+- ⚙️ Interested in **backend engineering, distributed systems, concurrency and fault-tolerant architectures**.
+- 🌐 **CNCF Open Source Contributor** with contributions to **Backstage** and **OpenTelemetry** using TypeScript/React and JavaScript/TypeScript.
+- 🧠 Strengthening my foundation in **Data Structures & Algorithms, OOPs, DBMS, Operating Systems and Computer Networks**.
+- 🔬 Previously worked as a **Research Intern at IIITDM Kancheepuram**, exploring Number Theory, Probability and Bayesian methods.
+- 🚀 I enjoy turning ideas into working systems, learning through real-world projects, and contributing to open-source communities.
+
+<br/>
+
+<div align="center">
+
+### ⚡ What I Work With
+
+`MERN` • `Node.js` • `React` • `Express.js` • `PostgreSQL` • `MongoDB`  
+`JavaScript` • `TypeScript` • `C++` • `Python` • `SQL`  
+`REST APIs` • `Distributed Systems` • `DSA` • `Git` • `Linux`
+
+</div>
+
+<br/>
