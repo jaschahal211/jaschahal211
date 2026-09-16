@@ -136,3 +136,88 @@ Contributed a **reliability fix** to OpenTelemetry and validated the implementat
 </div>
 
 <br/>
+
+<br/>
+
+<div align="center">
+
+## 🏆 Achievements
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Milestones+that+shaped+my+journey+%E2%9C%A8;Learn.+Compete.+Lead.+Repeat.+%F0%9F%9A%80" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
+
+### 🥇 Academic Excellence
+
+<img src="https://img.shields.io/badge/RANK%201-3%20CONSECUTIVE%20YEARS-FFD700?style=for-the-badge&labelColor=222222"/>
+
+<br/><br/>
+
+**Gold Medalist — Certificate of Merit**
+
+Ranked **1st in Information Technology** for outstanding academic performance across **2024, 2025 & 2026**.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏆 Flipkart GRiD 8.0
+
+<img src="https://img.shields.io/badge/2026-NATIONAL%20TECH%20CHALLENGE-FF6B35?style=for-the-badge&labelColor=222222"/>
+
+<br/><br/>
+
+Cleared **Rounds 1 & 2** and successfully completed **Round 3** of Flipkart's national-level technology challenge.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🚀 Smart India Hackathon
+
+<img src="https://img.shields.io/badge/SIH-FINALIST-6C5CE7?style=for-the-badge&labelColor=222222"/>
+
+<br/><br/>
+
+Selected as a **national-level hackathon finalist**, contributing to collaborative problem-solving and solution development.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏸 State-Level Athlete
+
+<img src="https://img.shields.io/badge/BADMINTON-UNDER--18-00B894?style=for-the-badge&labelColor=222222"/>
+
+<br/><br/>
+
+Represented at the **state level in badminton**, balancing competitive sport with academic and technical pursuits.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ACADEMICS-RANK%201-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/COMPETITIONS-FLIPKART%20GRiD-FF6B35?style=flat-square"/>
+<img src="https://img.shields.io/badge/HACKATHONS-SIH-6C5CE7?style=flat-square"/>
+<img src="https://img.shields.io/badge/SPORTS-STATE%20LEVEL-00B894?style=flat-square"/>
+
+</div>
+
+<br/>
