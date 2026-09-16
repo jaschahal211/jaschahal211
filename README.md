@@ -56,3 +56,83 @@ I'm **Jaskiran Kaur Chahal**, a final-year **B.Tech Information Technology stude
 </div>
 
 <br/>
+
+<br/>
+
+<div align="center">
+
+## 🌐 Open Source Contributions
+
+### Building in the Open • Contributing to CNCF Projects
+
+</div>
+
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/backstage/backstage">
+<img src="https://img.shields.io/badge/CNCF-Backstage-0F1689?style=for-the-badge&logo=backstage&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**TypeScript · React**
+
+Contributed a **bug fix** to Backstage, improving component behavior within the open-source developer portal framework.
+
+<br/>
+
+**🛠️ Code Fix · 🔍 Debugging · ⚛️ React**
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/open-telemetry/opentelemetry-js">
+<img src="https://img.shields.io/badge/CNCF-OpenTelemetry-7B61FF?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**JavaScript · TypeScript**
+
+Contributed a **reliability fix** to OpenTelemetry and validated the implementation through automated testing.
+
+<br/>
+
+**🛠️ Code Fix · 🧪 Testing · ☁️ Cloud Native**
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🧪 Testing & Quality
+
+<img src="https://img.shields.io/badge/Regression%20Tests-8%2B-2ea44f?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Automated%20Testing-✓-blue?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Edge%20Cases-Covered-orange?style=for-the-badge"/>
+
+<br/><br/>
+
+**8+ regression tests** covering edge cases and verified through the respective project test suites.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> **Open Source isn't just about using software — it's about improving it.**
+
+</div>
+
+<br/>
